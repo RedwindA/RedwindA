@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🌱 I’m currently a med student
 - 🔭 I’m currently working on building various AI middleware to enhance user experience
 <!--
 **RedwindA/RedwindA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
